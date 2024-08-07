@@ -1,10 +1,7 @@
 import time
 import math
 import random
-from threading import Thread
-from inputimeout import inputimeout
-from inputimeout import TimeoutOccurred
-import signal, time
+
 
 # Unfortunately I omitted the timer for the user input as I could not find a solution I was happy with
 # as it impacted the flow of the game for the user
